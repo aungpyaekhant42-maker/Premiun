@@ -40,7 +40,7 @@ threading.Thread(target=run_keep_alive, daemon=True).start()
 
 # ============ CONFIG ============
 # နောက်ဆုံးထုတ်ထားသော Bot Token နှင့် Admin Telegram ID
-BOT_TOKEN = "8311320293:AAEL3qEIdCCFEb6D5u-wPanBayhawgcNMYU"
+BOT_TOKEN = "8913055175:AAFXup8SHJ5Z-2QcfAgiVgWhn3-mKT-uH_g"
 ADMIN_IDS = [8538596908]
 DB_FILE = "store.db"
 
