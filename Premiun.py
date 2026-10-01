@@ -46,8 +46,8 @@ DB_FILE = "store.db"
 
 # KBZPay / Wave ငွေလွှဲရန် အချက်အလက်
 PAYMENT_INFO = {
-    "kbz": {"label": "KBZPay", "name": "MAEIEIMON", "number": "09684747565"},
-    "wave": {"label": "Wave Money", "name": "AungPyaeKhant", "number": "09782663611"},
+    "kbz": {"label": "KBZPay", "name": "KhaingThin", "number": "09679843853"},
+    "wave": {"label": "Wave Money", "name": "HeinZarni", "number": "09756531541"},
 }
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
